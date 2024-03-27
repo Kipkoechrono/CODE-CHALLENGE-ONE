@@ -1,2 +1,3 @@
 # CODE-CHALLENGE-ONE
-student code generator
+code challenge
+
